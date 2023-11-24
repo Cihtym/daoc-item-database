@@ -51,7 +51,6 @@
         "Focus All Lines": { displayName: "Focus All Lines", value: 0, cap: 50, mythicalCap: 0 },
         "Focus Arboreal": { displayName: "Focus Arboreal", value: 0, cap: 50, mythicalCap: 0 },
         "Focus Body": { displayName: "Focus Body", value: 0, cap: 50, mythicalCap: 0 },
-        "Focus Body": { displayName: "Focus Body", value: 0, cap: 50, mythicalCap: 0 },
         "Focus Bone Army": { displayName: "Focus Bone Army", value: 0, cap: 50, mythicalCap: 0 },
         "Focus Cave Magic": { displayName: "Focus Cave Magic", value: 0, cap: 50, mythicalCap: 0 },
         "Focus Cold": { displayName: "Focus Cold", value: 0, cap: 50, mythicalCap: 0 },
